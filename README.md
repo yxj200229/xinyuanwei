@@ -3,9 +3,11 @@ console.log('is 心鸢尾!');
 
 printf("是 心鸢尾!");
 
-sudo xinyuanwei;
+sudo xinyuanwei!;
 
-echo'心鸢尾';
+echo'心鸢尾!';
+
+Debug.log('心鸢尾!');
 
 
 
