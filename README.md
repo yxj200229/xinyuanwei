@@ -9,7 +9,7 @@ echo'心鸢尾!';
 
 Debug.log('心鸢尾!');
 
-innerHTML.text.display:'block'."心鸢尾!";
+innerHTML.text == "心鸢尾!".display:'block';
 
 
 function onclick(){
